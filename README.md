@@ -1,4 +1,4 @@
-# OOP Week 2 Lab — Blueprints, Objects & Your First Test
+# Object-Oriented Programming — Week 2
 
 A Java Object-Oriented Programming lab focused on classes, objects, object state and behaviour, and unit testing with JUnit.
 
